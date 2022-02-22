@@ -1,2 +1,2 @@
 # Sirius
-Ambient light controller
+The ambient light controller and picture-taker 📸.
